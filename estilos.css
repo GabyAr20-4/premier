@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    min-width: 320px;
+    height: 500px;
+    background-image: url("./assets/imgprinc.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
